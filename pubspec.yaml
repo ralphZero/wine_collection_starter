@@ -77,6 +77,9 @@ flutter:
   #   - family: Italiana
   #     fonts:
   #       - asset: assets/Italiana-Regular.ttf
+  #   - family: Roboto
+  #     fonts:
+  #       - asset: assets/Roboto-Light.ttf
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
